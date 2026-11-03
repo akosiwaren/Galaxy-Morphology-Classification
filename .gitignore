@@ -1,0 +1,34 @@
+
+# Dataset files
+dataset/*.h5
+dataset/*.npz
+dataset/*.npy
+
+# Model checkpoints
+models/*.pth
+models/*.pt
+models/*.pkl
+
+# Training results
+results/*.npz
+results/*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
